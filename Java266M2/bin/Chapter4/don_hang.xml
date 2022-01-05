@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Don_hang>
+  <Ngay_dat_hang>2010-01-27</Ngay_dat_hang>
+  <Ten_khach_hang>Khuất Thuỳ Phương</Ten_khach_hang>
+  <Noi_dung>
+    <Ma_san_pham>1</Ma_san_pham>
+    <So_luong>2</So_luong>
+  </Noi_dung>
+  <Noi_dung>
+    <Ma_san_pham>4</Ma_san_pham>
+    <So_luong>1</So_luong>
+  </Noi_dung>
+</Don_hang>

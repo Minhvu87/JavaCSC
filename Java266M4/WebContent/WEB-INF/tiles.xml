@@ -1,0 +1,162 @@
+<!DOCTYPE tiles-definitions PUBLIC
+"-//Apache Software Foundation//DTD Tiles Configuration 3.0//EN"
+"http://tiles.apache.org/dtds/tiles-config_3_0.dtd">
+<tiles-definitions>
+	<definition name="bg" template="/template/bg.jsp">
+		<put-attribute name="title" value="Title" />
+	</definition>
+
+	<definition name="bghome" template="/template/bghome.jsp">
+		<put-attribute name="title" value="Title" />
+	</definition>
+
+
+	<definition name="Chapter3.template"
+		template="/template/bg.jsp">
+		<put-attribute name="title"
+			value="Chapter3 template page" />
+		<put-attribute name="content"
+			value="/views/Chapter3/template.jsp"></put-attribute>
+	</definition>
+
+
+	<definition name="Chapter4.upload"
+		template="/template/bg.jsp">
+		<put-attribute name="title" value="Simple upload"></put-attribute>
+		<put-attribute name="content"
+			value="/views/Chapter4/upload.jsp" />
+	</definition>
+
+	<definition name="Chapter4.multiupload"
+		template="/template/bg.jsp">
+		<put-attribute name="title" value="Multi upload"></put-attribute>
+		<put-attribute name="content"
+			value="/views/Chapter4/multiupload.jsp" />
+	</definition>
+
+	<definition name="Chapter4.sendmail"
+		template="/template/bg.jsp">
+		<put-attribute name="title" value="SendMail"></put-attribute>
+		<put-attribute name="content"
+			value="/views/Chapter4/sendmail.jsp" />
+	</definition>
+
+	<definition name="Chapter5.author.list"
+		template="/template/bg.jsp">
+		<put-attribute name="title" value="Author List"></put-attribute>
+		<put-attribute name="content"
+			value="/views/Chapter5/author_list.jsp" />
+	</definition>
+
+	<definition name="Chapter5.author.add"
+		template="/template/bg.jsp">
+		<put-attribute name="title" value="Author Add"></put-attribute>
+		<put-attribute name="content"
+			value="/views/Chapter5/author_add.jsp" />
+	</definition>
+
+	<definition name="Chapter5.author.edit"
+		template="/template/bg.jsp">
+		<put-attribute name="title" value="Author Edit"></put-attribute>
+		<put-attribute name="content"
+			value="/views/Chapter5/author_edit.jsp" />
+	</definition>
+
+	<definition name="Chapter5.category.list"
+		template="/template/bg.jsp">
+		<put-attribute name="title" value="Category List"></put-attribute>
+		<put-attribute name="content"
+			value="/views/Chapter5/category_list.jsp" />
+	</definition>
+
+	<definition name="Chapter6.category.add"
+		template="/template/bg.jsp">
+		<put-attribute name="title" value="Category Add"></put-attribute>
+		<put-attribute name="content"
+			value="/views/Chapter6/category_add.jsp" />
+	</definition>
+
+	<definition name="Chapter6.category.edit"
+		template="/template/bg.jsp">
+		<put-attribute name="title" value="Category Edit"></put-attribute>
+		<put-attribute name="content"
+			value="/views/Chapter6/category_edit.jsp" />
+	</definition>
+
+
+	<definition name="Chapter6.home.list"
+		template="/template/bghome.jsp">
+		<put-attribute name="title" value="Home Index"></put-attribute>
+		<put-attribute name="content"
+			value="/views/Chapter6/home_list.jsp" />
+	</definition>
+
+	<definition name="Chapter6.home.detail"
+		template="/template/bghome.jsp">
+		<put-attribute name="title" value="Home Detail"></put-attribute>
+		<put-attribute name="content"
+			value="/views/Chapter6/home_detail.jsp" />
+	</definition>
+
+	<definition name="Chapter6.home.search"
+		template="/template/bghome.jsp">
+		<put-attribute name="title" value="Home Search"></put-attribute>
+		<put-attribute name="content"
+			value="/views/Chapter6/home_search.jsp" />
+	</definition>
+
+	<definition name="Chapter6.cart.list"
+		template="/template/bghome.jsp">
+		<put-attribute name="title" value="Cart List"></put-attribute>
+		<put-attribute name="content"
+			value="/views/Chapter6/cart_list.jsp" />
+	</definition>
+
+
+	<definition name="Chapter6.cart.checkout"
+		template="/template/bghome.jsp">
+		<put-attribute name="title" value="Cart Index"></put-attribute>
+		<put-attribute name="content"
+			value="/views/Chapter6/cart_checkout.jsp" />
+	</definition>
+
+	<definition name="Chapter6.order.list"
+		template="/template/bghome.jsp">
+		<put-attribute name="title" value="Order List"></put-attribute>
+		<put-attribute name="content"
+			value="/views/Chapter6/order_list.jsp" />
+	</definition>
+
+	<definition name="Chapter6.order.detail"
+		template="/template/bghome.jsp">
+		<put-attribute name="title" value="Order Detail"></put-attribute>
+		<put-attribute name="content"
+			value="/views/Chapter6/order_detail.jsp" />
+	</definition>
+
+	<definition name="bgpanel" template="/template/bgpanel.jsp">
+		<put-attribute name="title" value="Title" />
+	</definition>
+
+	<definition name="Chapter9.auth.register" extends="bgpanel">
+		<put-attribute name="title" value="Register" />
+		<put-attribute name="content"
+			value="/views/Chapter9/register.jsp" />
+	</definition>
+
+	<definition name="Chapter9.auth.logon" extends="bgpanel">
+		<put-attribute name="title" value="Logon" />
+		<put-attribute name="content"
+			value="/views/Chapter9/logon.jsp" />
+	</definition>
+
+
+
+	<definition name="Chapter9.index" extends="bghome">
+		<put-attribute name="title" value="index" />
+		<put-attribute name="content"
+			value="/views/Chapter9/index.jsp" />
+	</definition>
+
+
+</tiles-definitions>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cong_ty>
+  <don_vi>
+    <id>1</id>
+    <ten>Phòng Tổ chức hành chính</ten>
+  </don_vi>
+  <don_vi>
+    <id>2</id>
+    <ten>Phòng Chăm sóc Khách hàng</ten>
+  </don_vi>
+  <don_vi>
+    <id>3</id>
+    <ten>Phòng Công nghệ Thông tin</ten>
+  </don_vi>
+  <don_vi>
+    <id>4</id>
+    <ten>Phòng Khách hàng Doanh nghiệp</ten>
+  </don_vi>
+  <don_vi>
+    <id>5</id>
+    <ten>Phòng Bán hàng - Marketing</ten>
+  </don_vi>
+</cong_ty>

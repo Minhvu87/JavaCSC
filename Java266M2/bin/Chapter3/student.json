@@ -1,0 +1,16 @@
+[
+  {
+    "firstname": "Vinh",
+    "lastname": "Pham",
+    "age": 24,
+    "mark1": 8.0,
+    "mark2": 7.0
+  },
+  {
+    "firstname": "Chung",
+    "lastname": "Le",
+    "age": 18,
+    "mark1": 8.0,
+    "mark2": 8.0
+  }
+]

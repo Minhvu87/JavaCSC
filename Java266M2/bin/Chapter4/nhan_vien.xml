@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<don_vi>
+  <nhan_vien>
+    <id>1</id>
+    <ho_ten>Phạm Bá Tuấn</ho_ten>
+    <gioi_tinh>1</gioi_tinh>
+    <ngay_sinh>12-12-1986</ngay_sinh>
+    <muc_luong>6000000</muc_luong>
+    <dia_chi>311 Nơ Trang Long, P. 13, Q. Bình Thạnh, Tp. HCM</dia_chi>
+    <id_don_vi>1</id_don_vi>
+  </nhan_vien>
+  <nhan_vien>
+    <id>2</id>
+    <ho_ten>Trần Khải Minh</ho_ten>
+    <gioi_tinh>1</gioi_tinh>
+    <ngay_sinh>12-12-1986</ngay_sinh>
+    <muc_luong>5000000</muc_luong>
+    <dia_chi>142 Đường số 45, P. Tân Quy, Q. 7, Tp. HCM</dia_chi>
+    <id_don_vi>1</id_don_vi>
+  </nhan_vien>
+  <nhan_vien>
+    <id>3</id>
+    <ho_ten>Võ Minh Luân</ho_ten>
+    <gioi_tinh>1</gioi_tinh>
+    <ngay_sinh>12-12-1986</ngay_sinh>
+    <muc_luong>4000000</muc_luong>
+    <dia_chi>305 Nơ Trang Long, P.13, Q. Bình Thạnh, Tp. HCM</dia_chi>
+    <id_don_vi>2</id_don_vi>
+  </nhan_vien>
+  <nhan_vien>
+    <id>4</id>
+    <ho_ten>Lê Minh Hiệu</ho_ten>
+    <gioi_tinh>1</gioi_tinh>
+    <ngay_sinh>12-12-1986</ngay_sinh>
+    <muc_luong>3500000</muc_luong>
+    <dia_chi>15/15 Đường 22, P. Phước Long B, Q. 9, Tp. HCM</dia_chi>
+    <id_don_vi>2</id_don_vi>
+  </nhan_vien>
+  <nhan_vien>
+    <id>5</id>
+    <ho_ten>Nguyễn Võ Trường Thanh</ho_ten>
+    <gioi_tinh>1</gioi_tinh>
+    <ngay_sinh>12-12-1986</ngay_sinh>
+    <muc_luong>8000000</muc_luong>
+    <dia_chi>Lô 7 Thanh Đa, P. 27, Q. Bình Thạnh, Tp. HCM</dia_chi>
+    <id_don_vi>3</id_don_vi>
+  </nhan_vien>
+</don_vi>

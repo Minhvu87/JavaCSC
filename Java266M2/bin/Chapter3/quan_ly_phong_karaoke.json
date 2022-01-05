@@ -1,0 +1,20 @@
+{
+	"VIP_01": {
+		"Trang_thai": "CON_TRONG",
+		"ID": 1,
+		"Ten": "VIP 01",
+		"Ma_so": "VIP_01",
+		"So_Khach_Toi_da": 10,
+		"ID_LOAI_PHONG": 1,
+		"Don_gia": 65000.0
+	},
+	"VIP_05": {
+		"Trang_thai": "CON_TRONG",
+		"ID": 5,
+		"Ten": "VIP 5",
+		"Ma_so": "VIP_05",
+		"So_Khach_Toi_da": 15,
+		"ID_LOAI_PHONG": 2,
+		"Don_gia": 75000.0
+	}
+}
